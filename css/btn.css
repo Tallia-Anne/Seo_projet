@@ -1,0 +1,21 @@
+.btn {
+    padding: 12px 12px;
+    background-color: orangered;
+    color: #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 3px 10px rgba(172, 123, 7, 0.393);
+}
+
+.btn a {
+text-decoration: none;
+color: #fff;
+}
+
+.btn:hover {
+background-color: rgba(234, 130, 12, 0.831);
+
+}
+
